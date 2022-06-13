@@ -1,0 +1,8 @@
+replicas: 3
+image: nginxdemos/hello
+port: 80
+extenalPort: 8000
+nodePort: 30080
+key: 
+  sub: super-key
+  sss: sss
